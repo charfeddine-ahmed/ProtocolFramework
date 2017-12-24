@@ -1,0 +1,17 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.0</TargetFramework>
+    <Description>A framework library for building protocol implementations. These implementations can then be easily plugged into a Push Framework based server.</Description>
+    <PackageProjectUrl>http://www.pushframework.com/</PackageProjectUrl>
+    <Authors>Ahmed Charfedddine</Authors>
+    <Copyright>Copyright (C) 2017 Push Framework</Copyright>
+    <RepositoryUrl>https://github.com/charfeddine-ahmed/ProtocolFramework</RepositoryUrl>
+    <Version>1.0.1</Version>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Folder Include="Properties\" />
+  </ItemGroup>
+
+</Project>
